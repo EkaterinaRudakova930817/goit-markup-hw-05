@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none">
+
+<symbol id="icon-instagram" viewBox="0 0 24 24">
+<path fill="currentColor" d="M7 2C4.24 2 2 4.24 2 7v10c0 2.76 2.24 5 5 5h10c2.76 0 5-2.24 5-5V7c0-2.76-2.24-5-5-5H7zm10 2a1 1 0 110 2 1 1 0 010-2zM12 7a5 5 0 110 10 5 5 0 010-10zm0 2.2A2.8 2.8 0 1012 15a2.8 2.8 0 000-5.6z"/>
+</symbol>
+
+<symbol id="icon-twitter" viewBox="0 0 24 24">
+<path fill="currentColor" d="M22 5.8c-.7.3-1.5.5-2.3.6a4 4 0 001.8-2.2 7.7 7.7 0 01-2.6 1A4 4 0 0012 8a11.4 11.4 0 01-8.3-4.2 4 4 0 001.2 5.3c-.6 0-1.2-.2-1.7-.5 0 2 1.4 3.7 3.3 4-.6.2-1.2.2-1.8.1.5 1.7 2.2 3 4 3A8 8 0 012 18.5 11.3 11.3 0 008 20c7.2 0 11.2-6 11.2-11.2v-.5A8 8 0 0022 5.8z"/>
+</symbol>
+
+<symbol id="icon-facebook" viewBox="0 0 24 24">
+<path fill="currentColor" d="M13 22v-8h3l1-4h-4V7.5c0-1.2.3-2 2-2h2V2.2C16.7 2.1 15.6 2 14.5 2c-3.3 0-5.5 2-5.5 5.6V10H6v4h3v8h4z"/>
+</symbol>
+
+<symbol id="icon-linkedin" viewBox="0 0 24 24">
+<path fill="currentColor" d="M4 3a2 2 0 110 4 2 2 0 010-4zm1 5H3v13h2V8zm7 0h-2v13h2v-7c0-2 3-2.2 3 0v7h2v-8c0-4.5-5-4.3-5-2V8z"/>
+</symbol>
+
+<symbol id="icon-antenna" viewBox="0 0 24 24">
+<path fill="currentColor" d="M12 2l2 2-2 2-2-2 2-2zm0 4c-4 0-7 3-7 7h2a5 5 0 0110 0h2c0-4-3-7-7-7zm0 4a3 3 0 00-3 3h2a1 1 0 112 0h2a3 3 0 00-3-3z"/>
+</symbol>
+
+<symbol id="icon-clock" viewBox="0 0 24 24">
+<path fill="currentColor" d="M12 2a10 10 0 100 20 10 10 0 000-20zm1 11h-5V7h2v4h3v2z"/>
+</symbol>
+
+<symbol id="icon-diagram" viewBox="0 0 24 24">
+<path fill="currentColor" d="M3 3h2v18H3V3zm16 6h2v12h-2V9zM9 13h2v8H9v-8zm5-4h2v12h-2V9z"/>
+</symbol>
+
+<symbol id="icon-astronaut" viewBox="0 0 24 24">
+<path fill="currentColor" d="M12 2a5 5 0 015 5v3h1a2 2 0 012 2v3h-2v5h-2v-5H8v5H6v-5H4v-3a2 2 0 012-2h1V7a5 5 0 015-5z"/>
+</symbol>
+
+</svg>
