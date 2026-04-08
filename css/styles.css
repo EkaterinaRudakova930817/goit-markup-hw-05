@@ -658,14 +658,6 @@ background-color: #ffffff;
     background-color: #404bbf;
 }
 
-.footer-logo-box {
-    margin-right: 120px;
-}
-
-.footer-social-box {
-    margin-right: 80px;
-}
-
 .footer-subscribe-title {
     margin-bottom: 16px;
     font-weight: 500;
@@ -691,12 +683,6 @@ background-color: #ffffff;
 
 .footer-social {
     margin-right: 80px;
-}
-
-.footer-container {
-    display: flex;
-    align-items: baseline;
-    justify-content: flex-start;
 }
 
 .footer-input {
@@ -767,4 +753,21 @@ background-color: #ffffff;
     line-height: 1.17;
     letter-spacing: 0.04em;
     color: #8e8f99;
+}
+
+.footer-container {
+    display: flex;
+    align-items: baseline;
+}
+
+.footer-logo-text {
+    margin-right: 120px;
+}
+
+.footer-social {
+    margin-right: 80px;
+}
+
+.footer-subscribe {
+    margin-left: auto;
 }
